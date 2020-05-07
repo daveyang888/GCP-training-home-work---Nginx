@@ -2,6 +2,7 @@
 GCP training home work - Nginx
 
 作业要求：在GCE 虚拟机上，部署 Nginx，然后跑起一段 html 來
+
 作业结果：浏览器浏览 http://34.67.225.198/，即可看到所制作的 html 页面。
 
 一. 下载、安装 Nginx
